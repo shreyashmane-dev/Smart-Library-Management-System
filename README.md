@@ -1,4 +1,3 @@
-
 ### B. Deploy Frontend to Vercel
 1. In Vercel, import your GitHub repository.
 2. Set the **Root Directory** to `frontend`.
@@ -28,3 +27,4 @@ python backend/scripts/verify_borrow_flow.py --base-url http://localhost:8000
 This project is open-source under the MIT License. Developed with ❤️ by [shreyashmane-dev](https://github.com/shreyashmane-dev).
 - Minor documentation improvements. (2026-07-10 16:13:46.908635)
 - Added maintenance update. (2026-07-11 14:43:56.922454)
+- Updated implementation notes. (2026-07-17 22:38:18.141880)
